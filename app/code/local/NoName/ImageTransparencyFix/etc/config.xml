@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <NoName_ImageTransparencyFix>
+            <version>1.0.0</version>
+        </NoName_ImageTransparencyFix>
+    </modules>
+    
+    <global>
+        <models>
+            <core>
+                <rewrite>
+                    <file_validator_image>NoName_ImageTransparencyFix_Core_Model_File_Validator_Image</file_validator_image>
+                </rewrite>
+            </core>
+        </models>
+    </global>
+</config>
